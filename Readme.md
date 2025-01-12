@@ -1,10 +1,10 @@
-Here’s a revised **README.md** file tailored for a **Gemrate Login/Signup** project built with **HTML**, **CSS**, **JavaScript**, and **Firebase**:
+Here’s a revised **README.md** file tailored for a **ogin/Signup** project built with **HTML**, **CSS**, **JavaScript**, and **Firebase**:
 
 ---
 
-# 🌟 Gemrate Login & Signup
+# 🌟Login & Signup
 
-Gemrate Login & Signup is a **modern, secure, and scalable authentication module** powered by **Firebase Authentication**. Designed with simplicity and responsiveness in mind, this module ensures seamless user experiences across devices.
+This Login & Signup is a **modern, secure, and scalable authentication module** powered by **Firebase Authentication**. Designed with simplicity and responsiveness in mind, this module ensures seamless user experiences across devices.
 
 ---
 
@@ -38,8 +38,8 @@ Follow these steps to set up the project:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/username/gemrate-login-signup.git
-cd gemrate-login-signup
+git clone https://github.com/username/genrate-login-signup.git
+cd login-signup
 ```
 
 ### 2️⃣ Set Up Firebase
@@ -125,7 +125,7 @@ Contributions are welcome! To contribute:
 
 ---
 
-Here are some **keywords** you can use for your **Gemrate Login & Signup** project, optimized for SEO and audience targeting:
+Here are some **keywords** you can use for your **Login & Signup** project, optimized for SEO and audience targeting:
 
 ### 🔑 General Keywords
 - Login and Signup System  
